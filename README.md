@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/swapnilpatil0655](https://github.com/swapnilpatil0655)
+- 👨‍💻 All of my projects are available at [https://github.com/swapnilpatil0655/Projects](https://github.com/swapnilpatil0655)
 
 - 📫 How to reach me **swapnilpatil0655@gmail.com**
 
